@@ -1,0 +1,100 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Tal3t Khail Team - Omar Elshemy</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f0f0f0;
+            color: #333;
+        }
+
+        header {
+            background-color: #333;
+            color: #fff;
+            padding: 10px 0;
+            text-align: center;
+        }
+
+        .container {
+            max-width: 800px;
+            margin: 20px auto;
+            padding: 0 20px;
+        }
+
+        h1,
+        h2 {
+            color: #333;
+        }
+
+        p {
+            line-height: 1.6;
+        }
+
+        .about {
+            background-color: #fff;
+            padding: 20px;
+            margin-top: 20px;
+        }
+
+        footer {
+            background-color: #333;
+            color: #fff;
+            text-align: center;
+            padding: 10px 0;
+            position: fixed;
+            bottom: 0;
+            width: 100%;
+        }
+    </style>
+</head>
+
+<body>
+    <header>
+        <h1>Tal3t Khail Team</h1>
+    </header>
+    <div class="container">
+        <h2>About Omar Abo Karama</h2>
+        <div class="about">
+            <p>Omar Abo Karama is the owner and founder of the Tal3t Khail team. He is passionate about equestrian sports and aims to promote them in Egypt.</p>
+        </div>
+        <h2>Team Members</h2>
+        <div class="about">
+            <p><strong>Omar Elshemy</strong> - A dedicated team member passionate about horse riding and archery.</p>
+            <p><strong>Eslam Elliby</strong> - A valuable member of the team with a love for horses.</p>
+            <p><strong>Safwan</strong> - A skilled rider and an essential part of our team.</p>
+            <p><strong>Emad</strong> - An enthusiastic team member contributing to our success.</p>
+            <p><strong>Sama Rakha</strong> - A committed team member with a passion for equestrian sports.</p>
+            <p><strong>Marwa Abo Faisal</strong> - An integral part of our team, dedicated to excellence in horse riding.</p>
+            <p><strong>Moustafa Younis</strong> - Our talented team photographer capturing our best moments.</p>
+        </div>
+        <h2>Horse Riding Trips</h2>
+        <p>We offer horse riding trips at several locations in Egypt:</p>
+        <ul>
+            <li>Saqqara, Giza</li>
+            <li>Fayoum</li>
+            <li>Dahab</li>
+            <li>Luxor</li>
+            <li>Aswan</li>
+            <li>Damietta</li>
+        </ul>
+        <p>Join us for an unforgettable experience!</p>
+        <h2>Follow Us</h2>
+        <p>Stay updated with our latest news and events:</p>
+        <ul>
+            <li><a href="https://www.facebook.com/tal3t.kheal/">Facebook</a></li>
+            <li><a href="https://www.instagram.com/tal3t.kheal%253Figshid%253DMmIzYWVlNDQ5Yg%253D%253D%3Ffbclid%3DIwAR3GEGAsae3TDznREvzY67uxirYfYxu7526tl9JodStZJpqQvbPYHHzRR44_aem_ATVQ1feyLHdvcNmBBWKeGP2ac2nO4x2vljGrYb6nPfuS2sS9NmAbndwMyVJn3LmlKTkgj6cHqXvpF5furtLhNRTM&h=AT3WFc2YNZP0acnQ7gp3BJRY1oC3oCo4i0QxRfLrcTz8VIHkl9RBththBadtewmm9eq6KeMKU0tAjcbzdo7HC6LPhzlrjGqffmGU23QcxhAGzr4iCrFjPcglNNRBmoI21fSf">Instagram</a></li>
+        </ul>
+    </div>
+    <footer>
+        <p>&copy; 2024 Tal3t Khail Team - Omar Elshemy. All Rights Reserved.</p>
+    </footer>
+</body>
+
+</html>
